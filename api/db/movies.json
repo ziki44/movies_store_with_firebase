@@ -1,1 +1,18 @@
-{"movies":[{"id":"2da25e95-56b1-4963-871a-9eed3e64bfbd","title":"Koszmar z ulicy wiązów","description":"bla bla bla ","year":"2079","poster":"https://paradoks.net.pl/image_files/text/9758/4b55733bca716283d850b2dd8ceedec4.jpg"},{"id":"da65aa98-29f9-4500-9d84-0f118371e346","title":"Harry Poter","description":"Przygody Harrego Potera","year":"2012","poster":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/09/29/15/hp.jpg?quality=75&width=982&height=726&auto=webp"}]}
+{
+	"movies": [
+		{
+			"id": "2da25e95-56b1-4963-871a-9eed3e64bfbd",
+			"title": "Koszmar z ulicy wiązów",
+			"description": "bla bla bla ",
+			"year": "2079",
+			"poster": "https://paradoks.net.pl/image_files/text/9758/4b55733bca716283d850b2dd8ceedec4.jpg"
+		},
+		{
+			"id": "da65aa98-29f9-4500-9d84-0f118371e346",
+			"title": "Harry Poter",
+			"description": "Przygody Harrego Potera",
+			"year": "2012",
+			"poster": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/09/29/15/hp.jpg?quality=75&width=982&height=726&auto=webp"
+		}
+	]
+}
